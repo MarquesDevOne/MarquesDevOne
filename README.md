@@ -1,4 +1,4 @@
-### Olá! Eu sou o Jânio Marques. Seja bem vindo(a) ao meu perfil do GitHub 👋
+### Olá! Eu sou o Jânio Marques. Seja bem vindo(a)! 👋
 
 <!--
 **MarquesDevOne/MarquesDevOne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
