@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Jânio Marques. Seja bem vindo(a)! 👋
-
+Atualmente estudando Python...
 <!--
 **MarquesDevOne/MarquesDevOne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
